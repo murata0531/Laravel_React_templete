@@ -3,7 +3,7 @@
 環境
 
 Laravel 8
-S
+
 MySQL 8
 
 React
@@ -30,19 +30,20 @@ $ make destory
 
 ```
 laravel_appコンテナ：ここでlaravelやphpなどを動かしている
+```
 $ make laravel_app
 ```
 
 react_appコンテナ：ここでnodeやreactなどを動かしている
+```
 $ make react_app
 ```
-```
 dbコンテナ：ここでmysqlを動かしている
+```
 $ make laravel_app
-```
 
-```
 webコンテナ：ここでnginxを動かしている
+```
 $ make web
 ```
 
