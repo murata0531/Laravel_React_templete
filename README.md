@@ -1,9 +1,9 @@
-# react-learning
+# react-laravel-templete
 
 環境
 
 Laravel 8
-
+S
 MySQL 8
 
 React
